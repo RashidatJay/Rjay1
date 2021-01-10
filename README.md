@@ -5,7 +5,7 @@
   <li>🔭 I’m  working on an an esports quizz site.</li>
   <li>🌱 I’m currently learning web development</li>
   <li> 👯 I’m looking to collaborate on any project relating to esports.</li>
-  <li> 🤔 Any tips on being a better designer in general is appreciate.</li>
+  <li> 🤔 Any tips on being a better designer in general is appreciated.</li>
   <li>⚡ Fun fact: I can become mediocre at anything pretty fast.</li>
   </ul>
 <b>📫 Feel free to contact me:</b>
