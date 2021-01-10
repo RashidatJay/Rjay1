@@ -1,8 +1,8 @@
 ### Hi there! 👋
 <b>I'm Rashidat Jimoh, i love building chatbots using python and i am a <strike>beginner</strike> at web development.</b>
 
-<ul>
-  <li>🔭 I’m  working on an an esports quizz site.</li>
+<ul style=background-color:#cae4db;>
+  <li> I’m  working on an an esports quizz site.</li>
   <li>🌱 I’m currently learning web development</li>
   <li> 👯 I’m looking to collaborate on any project relating to esports.</li>
   <li> 🤔 Any tips on being a better designer in general is appreciated.</li>
