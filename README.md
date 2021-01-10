@@ -2,10 +2,10 @@
 <b>I'm Rashidat Jimoh, i love building chatbots using python and i am a <strike>beginner</strike> at web development.</b>
 
 <ul>
-  <li>🔭 I’m currently working on a survey form and an esports quizz site.</li>
-  <li>🌱 I’m currently learning CSS, Python, data structures and algorithms.</li>
+  <li>🔭 I’m  working on an an esports quizz site.</li>
+  <li>🌱 I’m currently learning web development</li>
   <li> 👯 I’m looking to collaborate on any project relating to esports.</li>
-  <li> 🤔 I’m looking for help with how to become better at CSS and just design in general.</li>
+  <li> 🤔 Any tips on being a better designer in general is appreciate.</li>
   <li>⚡ Fun fact: I can become mediocre at anything pretty fast.</li>
   </ul>
 <b>📫 Feel free to contact me:</b>
